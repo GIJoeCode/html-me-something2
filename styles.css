@@ -1,0 +1,74 @@
+title {
+    font-size: 50px;
+}
+
+
+body { 
+    background-color: #8c93ae;
+    font-family:sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    color: white;
+}
+ul {
+    color: yellowgreen;
+
+}
+
+
+h2 {
+    color:white;
+}
+
+p {
+    color:white;
+}
+
+footer {
+    color:limegreen;
+    font-size: 24px;
+}
+
+.earth {
+    display:flex;
+    align-items:right;
+    padding-left:10px;
+}
+
+.crust {
+    display:flex;
+    align-items:right;
+    padding-left:2px;
+}
+
+.mantle {
+    display: flex;
+    align-items: right;
+    padding-left:10px;
+   
+
+
+}
+.inncore {
+    display:flex;
+    align-items: right;
+    padding-left:10px;
+}
+.outtercore {
+    display:flex;
+    align-items:right;
+    padding-left:10px;
+    padding-top: 50px;
+    height: 500px;
+}
+
+
+.code {
+    font-size: 2rem;
+    color:lime;
+}
+
